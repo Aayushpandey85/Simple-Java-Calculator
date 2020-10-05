@@ -1,4 +1,4 @@
-# Simple Java Calculator
+# !!! - Simply Java Calculator - !!!
 
 ![Logo Simple Java Calculator](logo.png)
 
